@@ -2,6 +2,10 @@
 
 UNDP Accelerator Labs Network  Help us to showcase the value of grassroots innovation! We need easy to understand, yet powerful visualizations of the energy solutions we discovered that help us advocate for a more sustainable future. Be bold and creative.  More at https://www.vizforsocialgood.com/join-a-project/2022/9/15/undp-accelerator-labs-network
 
+
+View presentation at [View presentation](https://nbviewer.org/github/temajozias/UNDP-Accelerator-Labs-Network/blob/main/UNDP-Accelerator-Labs-Network.slides.html#/)
+
+
 ## Summary of Findings
 
 - `India` has the highest number of solutions
